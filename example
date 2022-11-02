@@ -1,0 +1,337 @@
+        <div class="about1">
+            <div class="member1">
+                <div class="border" style="height: 25vh; background-color: darkred;">
+                    <img src="member1.png" alt="Member" width="35%" style="margin-left: 32%; margin-top:10%;">
+                </div>
+                <div class="members">
+                    <h1 class="member1_h1">Sudam Munasinghe</h1>
+                    <h2 class="member1_h2">Founder,Main Web Designer & CEO</h2>
+                    <p class="member1_p">Hi.I'm Sudam Munasinghe.I'm the Administrator, Main Web Designer & a Founder of SM TECH SL</p>
+                    <p style="padding-left: 15px; font-size:20px;">Contact me on:</p>
+                    <div class="responsive" style="margin-left:5%;"><a href="#" class="fa fa-facebook"></a>
+                    <a href="#" class="fa fa-twitter"></a>
+                    <a href="#" class="fa fa-linkedin"></a>
+                    <a href="#" class="fa fa-instagram"></a></div>
+                    
+                </div>
+            </div>
+            <div class="member2" >
+                <div class="border" style="height: 25vh; background-color: royalblue;">
+                    <img src="member2.png" alt="Member" width="35%" style="margin-left: 32%; margin-top:10%;">
+                </div>
+                <div class="members">
+                    <h1 class="member2_h1">Sudila Munasinghe</h1>
+                    <h2 class="member2_h2">Founder,Main Web Developer</h2>
+                    <p class="member2_p">Hi.I'm Sudila Munasinghe.I'm a Founder & the Main Web Developer of SM TECH SL Company. </p>
+                    <p style="padding-left: 15px; font-size:20px;">Contact me on:</p>
+                    <div class="responsive" style="margin-left:15px;"><a href="#" class="fa fa-facebook"></a>
+                    <a href="https://www.twitter.com/Sudila_M" target="_blank" class="fa fa-twitter"></a>
+                    <a href="https://www.linkedin.com/company/smtechsl" target="_blank" class="fa fa-linkedin"></a>
+                    <a href="https://www.instagram.com/sudila_munasinghe" target="_blank" class="fa fa-instagram"></a></div>
+                </div>
+            </div>
+                <div class="member3">
+                    <div class="border" style="height: 25vh; background-color: darkgreen;">
+                        <img src="member3.png" alt="Member" width="35%" style="margin-left: 32%; margin-top:10%;">
+                    </div>
+                    <div class="members">
+                        <h1 class="member3_h1">Sanduni Wijethunga</h1>
+                        <h2 class="member3_h2">Main Software Developer</h2>
+                        <p class="member3_p">Hi.I'm Sanduni Wijethunga.Currently, I'm working as the Main Software Developer at SM TECH SL Company</p>
+                        <p style="padding-left: 15px; font-size:20px;">Contact me on:</p>
+                        <div class="responsive" style="margin-left:15px;"><a href="#" class="fa fa-facebook"></a>
+                        <a href="#" class="fa fa-twitter"></a>
+                        <a href="#" class="fa fa-linkedin"></a>
+                        <a href="#" class="fa fa-instagram"></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="about2">
+            <div class="member4">
+                <div class="border" style="height: 25vh; background-color: darkgoldenrod;">
+                    <img src="member4.png" alt="Member" width="35%" style="margin-left: 32%; margin-top:10%;">
+                </div>
+                <div class="members">
+                    <h1 class="member4_h1">Kalana Jayasinghe</h1>
+                    <h2 class="member4_h2">Project Manager</h2>
+                    <p class="member4_p">Hi.I'm Kalana Jayasinghe.I'm the Main Project Manager of SM TECH SL Company.</p>
+                    <p style="padding-left: 15px; font-size:20px;">Contact me on:</p>
+                    <div class="responsive" style="margin-left:15px;"><a href="#" class="fa fa-facebook"></a>
+                        <a href="#" class="fa fa-twitter"></a>
+                        <a href="#" class="fa fa-linkedin"></a>
+                        <a href="#" class="fa fa-instagram"></a></div>
+                </div>
+            </div>
+            <div class="member5">
+                <div  class="border" style="height: 25vh; background-color: darkviolet;">
+                    <img src="member5.png" alt="Member" width="35%" style="margin-left: 32%; margin-top:10%;">
+                </div>
+                <div class="members">
+                    <h1 class="member5_h1">Nirasha Ariyarathne</h1>
+                    <h2 class="member5_h2">Financial Manager</h2>
+                    <p class="member5_p">Hi.I'm Nirasha Ariyarathne.Now,I'm working as the Financial Manager at SM TECH SL Company.</p>
+                    <p style="padding-left: 15px; font-size:20px;">Contact me on:</p>
+                    <div class="responsive" style="margin-left:15px;"><a href="#" class="fa fa-facebook"></a>
+                        <a href="#" class="fa fa-twitter"></a>
+                        <a href="#" class="fa fa-linkedin"></a>
+                        <a href="#" class="fa fa-instagram"></a></div>
+                </div>
+            </div>
+                <div class="member6">
+                    <div class="border" style="height: 25vh; background-color: darkturquoise;">
+                        <img src="member6.png" alt="Member" width="35%" style="margin-left: 32%; margin-top:10%;">
+                    </div>
+                    <div class="members">
+                        <h1 class="member6_h1">Mohommad Hazeef</h1>
+                        <h2 class="member6_h2">Main Software Engineer</h2>
+                        <p class="member6_p">Hi.I'm Mohommad Hzeef.I'm working as the Main Software Engineer at SM TECH SL.</p>
+                        <p style="padding-left: 15px; font-size:20px;">Contact me on:</p>
+                        <div class="responsive" style="margin-left:15px;"><a href="#" class="fa fa-facebook"></a>
+                            <a href="#" class="fa fa-twitter"></a>
+                            <a href="#" class="fa fa-linkedin"></a>
+                            <a href="#" class="fa fa-instagram"></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        .about1{
+            display: flex;
+            flex-wrap: nowrap;
+            margin-bottom: 5%;
+        }
+        .member1 , .member2 , .member3 , .member4 , .member5 , .member6{
+            width: 30vw;
+            margin: 2%;
+            height: 60vh;
+        }
+        
+        /* These are the styles for 1st member */
+        
+        .member1{
+            display: grid;
+            grid-template-rows: auto auto;
+        }
+        .member1_h1{
+            color: darkred;
+            font-size: 28px;
+            text-align: center;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .member1_h2{
+            color: blue;
+            font-size: 25px;
+            text-align: center;
+            line-height: 0px;
+            font-family: 'Oswald', sans-serif;
+            padding-bottom: 10px;
+        }
+        .member1_p{
+            text-align: center;
+            font-size: 20px;
+        }
+        .member1_div{
+            background-color: rgb(226, 226, 226);
+            height: 35vh;
+            padding: 15px 15px 0px 15px;
+        }
+        /* These are the styles for 2nd member*/
+        
+        .member2{
+            display: grid;
+            grid-template-rows: auto auto;
+        }
+        .member2_h1{
+            color: darkred;
+            font-size: 28px;
+            text-align: center;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .member2_h2{
+            color: blue;
+            font-size: 25px;
+            text-align: center;
+            line-height: 0px;
+            font-family: 'Oswald', sans-serif;
+            padding-bottom: 10px;
+        }
+        .member2_p{
+            text-align: center;
+            font-size: 20px;
+        }
+        .member2_div{
+            background-color: grey;
+            height: 35vh;
+            padding: 15px 15px 0px 15px;
+        }
+        
+        /* These are the styles for 3rd member */
+        
+        .member3{
+            display: grid;
+            grid-template-rows: auto auto;
+        }
+        .member3_h1{
+            color: darkred;
+            font-size: 28px;
+            text-align: center;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .member3_h2{
+            color: blue;
+            font-size: 25px;
+            text-align: center;
+            line-height: 0px;
+            font-family: 'Oswald', sans-serif;
+            padding-bottom: 10px;
+        }
+        .member3_p{
+            text-align: center;
+            font-size: 20px;
+        }
+        .member3_div{
+            background-color: grey;
+            height: 35vh;
+            padding: 15px 15px 0px 15px;
+        }
+        
+        .about2{
+            display: flex;
+            flex-wrap: nowrap;
+            position:static;
+        }
+        
+        /* These are the styles for 4th member */
+        
+        .member4{
+            display: grid;
+            grid-template-rows: auto auto;
+        }
+        .member4_h1{
+            color: darkred;
+            font-size: 28px;
+            text-align: center;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .member4_h2{
+            color: blue;
+            font-size: 25px;
+            text-align: center;
+            line-height: 0px;
+            font-family: 'Oswald', sans-serif;
+            padding-bottom: 10px;
+        }
+        .member4_p{
+            text-align: center;
+            font-size: 20px;
+        }
+        .member4_div{
+            background-color: grey;
+            height: 35vh;
+            padding: 15px 15px 0px 15px;
+        }
+        
+        /* These are the styles for 5th member */
+        
+        .member5{
+            display: grid;
+            grid-template-rows: auto auto;
+        }
+        .member5_h1{
+            color: darkred;
+            font-size: 28px;
+            text-align: center;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .member5_h2{
+            color: blue;
+            font-size: 25px;
+            text-align: center;
+            line-height: 0px;
+            font-family: 'Oswald', sans-serif;
+            padding-bottom: 10px;
+        }
+        .member5_p{
+            text-align: center;
+            font-size: 20px;
+        }
+        .member5_div{
+            background-color: grey;
+            height: 35vh;
+            padding: 15px 15px 0px 15px;
+        }
+        
+        /* These are the styles for 6th member */
+        
+        .member6{
+            display: grid;
+            grid-template-rows: auto auto;
+        }
+        .member6_h1{
+            color: darkred;
+            font-size: 28px;
+            text-align: center;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .member6_h2{
+            color: blue;
+            font-size: 25px;
+            text-align: center;
+            line-height: 0px;
+            font-family: 'Oswald', sans-serif;
+            padding-bottom: 10px;
+        }
+        .member6_p{
+            text-align: center;
+            font-size: 20px;
+        }
+        .member6_div{
+            background-color: grey;
+            height: 35vh;
+            padding: 15px 15px 0px 15px;
+        }
+        .members{
+            background-color: rgb(226, 226, 226);
+            height: 40vh;
+            padding: 5% 5% 5% 5%;
+            border-bottom-left-radius: 12px;
+            border-bottom-right-radius: 12px;
+        }
+        .members:hover{
+            background-color: rgb(148, 145, 145);
+            color: white;
+            transition: 0.3s;
+        }
+        .border{
+           border-top-left-radius: 12px;
+           border-top-right-radius: 12px;
+        }
+        
+        @media  screen and (max-height:765px) {
+            .responsive{
+                margin-bottom: 40%;
+            }
+            .members{
+                height: 45vh;
+            }
+            .about1{
+                
+            }
+        
+            
+        }
